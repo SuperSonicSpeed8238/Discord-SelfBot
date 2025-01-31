@@ -1,9 +1,9 @@
 {
-    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "token": "7f00f03b579afc6d7e607f31b6f9c1f97ce5e95eda5a812c2009aa6b81a46120",
     "prefix": ".",
     "remote-users": [],
-    "autoreply": {
-        "messages": [
+    "autoreply": {AUTISTIC AUTISM FAT WHALE YOUR BIGGER THEN A DOLPHIN STUPID GUY AND YOU KNOW I SMOKE U YH}
+        "messages": [Yhyh
             "https://github.com/AstraaDev/Discord-SelfBot",
             "https://discord.gg/PKR7nM9j9U"
         ],
@@ -11,8 +11,8 @@
         "users": []
     },
     "afk": {
-        "enabled": false,
-        "message": "I am currently AFK. I will respond as soon as possible!"
+        "enabled": true,
+        "message": "shut up im afk cant u see"
     },
     "copycat": {
         "users": []
