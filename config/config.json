@@ -1,8 +1,8 @@
 {
-    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "token": "7f00f03b579afc6d7e607f31b6f9c1f97ce5e95eda5a812c2009aa6b81a46120",
     "prefix": ".",
     "remote-users": [],
-    "autoreply": {
+    "autoreply": {whale owned by henry}
         "messages": [
             "https://github.com/AstraaDev/Discord-SelfBot",
             "https://discord.gg/PKR7nM9j9U"
